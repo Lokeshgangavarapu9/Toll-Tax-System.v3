@@ -1,27 +1,2 @@
-# 🌐 Web UI Prototype (React & Tailwind)
-
-
-### 🌐 [CLICK HERE TO VIEW OUR LIVE INTERACTIVE WEB PROTOTYPE]
-(https://toll-tax.lovable.app)
-
-## 📊 Prototype Features
-* **AI Toll Gate Simulator:** A visual pipeline demonstrating the ALPR camera verification, National Database cross-checking, and AI Weight Fraud detection in real-time.
-* **Live Dashboard:** Dynamic updates of Total Revenue, Vehicles Processed, and Security Flags as simulated vehicles pass through the gate.
-* **FASTag Wallet Management:** Simulated auto-billing, digital balance tracking, and low-balance warnings.
-* **Audit & Security Logs:** Immutable tracking of exempt vehicles (Ambulances), weight mismatches, and flagged stolen vehicles.
-
-## 👨‍💻 Development Team
-* **Finance & Marketing Lead:** Lokesh
-* **Technical Lead:** Mathews
-* **Core Team:** Jishnu, Rohit, Greysi
-
-## 📊 Prototype Features
-* **AI Toll Gate Simulator:** A visual pipeline demonstrating the ALPR camera verification, National Database cross-checking, and AI Weight Fraud detection in real-time.
-* **Live Dashboard:** Dynamic updates of Total Revenue, Vehicles Processed, and Security Flags as simulated vehicles pass through the gate.
-* **FASTag Wallet Management:** Simulated auto-billing, digital balance tracking, and low-balance warnings.
-* **Audit & Security Logs:** Immutable tracking of exempt vehicles (Ambulances), weight mismatches, and flagged stolen vehicles.
-
-## 👨‍💻 Development Team
-* **Finance & Marketing Lead:** Lokesh
-* **Technical Lead:** Mathews
-* **Core Team:** Jishnu, Rohit, Greysi
+[Click Here to Open the Live Web Prototype]
+https://toll-tax.lovable.app
