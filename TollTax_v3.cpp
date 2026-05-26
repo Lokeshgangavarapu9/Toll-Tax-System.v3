@@ -3,10 +3,7 @@
   TOLL TAX MANAGEMENT SYSTEM — v3.0  "STOP-FREE AI AUTOMATION EDITION"
   OOP Project | SRM University-AP | C++ (C++11 or later)
 
-  Team:
-    Finance & Marketing Lead  : Lokesh
-    Technical Lead            : Mathews
-    Core Team                 : Jishnu, Rohit, Greysi
+ 
 
   ── What's New in v3.0 ──────────────────────────────────────────────────────
     Feature A │ CameraSystem   — Dual-Camera ALPR plate-tamper detection
