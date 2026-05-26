@@ -12,7 +12,7 @@ This folder contains the frontend source code and design assets for the **AI Tol
 We developed this interactive web application to visually demonstrate the operational value of our C++ backend logic to non-technical stakeholders. It simulates the entire stop-free automation pipeline in a modern, user-friendly interface.
 
 ### 🚀 [CLICK HERE TO VIEW THE LIVE INTERACTIVE PROTOTYPE]
-(https://toll-tax.lovable.app)
+### 🌐 [CLICK HERE TO VIEW OUR LIVE INTERACTIVE WEB PROTOTYPE](https://toll-tax.lovable.app)
 
 ## 📊 Prototype Features
 * **AI Toll Gate Simulator:** A visual pipeline demonstrating the ALPR camera verification, National Database cross-checking, and AI Weight Fraud detection in real-time.
